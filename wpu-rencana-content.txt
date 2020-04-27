@@ -1,5 +1,8 @@
 Rencana konten WPU
 
 -Javascricp
+  *ES6
+  *Framework JS
 -PHP
 -Interview
+-Vlogs
