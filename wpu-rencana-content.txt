@@ -4,6 +4,7 @@ Rencana konten WPU
   *ES6
   *Framework JS
    ^vue
+   ^reac
 - Struktur data
 -PHP
    ^laravel
