@@ -3,7 +3,10 @@ Rencana konten WPU
 -Javascricp
   *ES6
   *Framework JS
+   ^vue
 - Struktur data
 -PHP
+   ^laravel
 -Interview
 -Vlogs
+-Phyton
